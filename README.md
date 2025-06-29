@@ -1,6 +1,8 @@
 # Surface Temperature Forecasting in Indonesia
 ### CodingCamp DBS Foundation 2025 - Machine Learning Final Project
 
+You can read the full report in [Laporan Proyek](laporan.md), however, the full report is currently only available in Indonesian.
+
 ## 🌏 Domain
 This project focuses on **climate science**, particularly surface temperature trends as a key indicator of climate change. As a tropical archipelagic country, **Indonesia** is highly vulnerable to climate-related impacts such as sea level rise, heatwaves, and agricultural disruption.
 
